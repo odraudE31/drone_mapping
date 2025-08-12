@@ -27,7 +27,7 @@ exit
 Open a Web Browser to [http://localhost:8000](http://localhost:8000) and generate map over the images. On WebODM, after starting the new project choose Fast Orthophoto. Click Edit and set the specifications:
 
 *Parameters used:*
-- Fatest obtained:
+- Fastest obtained:
 ```
 auto-boundary:true,fast-orthophoto:true,feature-quality:ultra,orthophoto-resolution:2,pc-quality:low,skip-3dmodel:true
 ```
